@@ -1,29 +1,56 @@
-# 📊 Data Analytics Portfolio
+# 👋 Hi, I'm Anuj Kumar Vinod
 
-Hi, I'm Anuj Kumar Vinod.
+🎓 MCA Student  
+📊 Aspiring Data Analyst  
+💡 Passionate about turning data into actionable business insights
 
-## Skills
-- SQL
-- MySQL
+## 🛠️ Skills
+
+- SQL & MySQL
 - Power BI
-- Excel
+- Microsoft Excel
 - Python
 - Data Analysis
+- Data Visualization
+- Business Intelligence
+- Dashboard Development
 
-## Projects
+---
 
-### 1. SQL E-Commerce Analysis
-Business analysis using SQL and MySQL.
+## 📂 Projects
 
-### 2. Nykaa Sales Dashboard (Power BI)
-Interactive dashboard for sales, revenue, and product performance analysis.
+### 📊 E-Commerce Sales Analysis (SQL)
+- Sales Analysis
+- Customer Analysis
+- Profit Analysis
+- Regional Performance Analysis
+- SQL Queries using Joins, Subqueries & Window Functions
 
-### 3. Python Sales Analysis
-Coming Soon
+🔗 View Project: SQL_Ecommerce_Analysis
 
-## Certifications
+---
+
+### 📈 Nykaa Sales Dashboard (Power BI)
+- Interactive Dashboard
+- KPI Tracking
+- Sales & Revenue Analysis
+- Product Performance Analysis
+- Business Intelligence Reporting
+
+🔗 View Project: PowerBI_Nykaa_Dashboard
+
+---
+
+## 📜 Certifications
+
 - HackerRank SQL (Intermediate)
 
-## Contact
+---
+
+## 📫 Connect With Me
+
 - LinkedIn: linkedin.com/in/anuj-vinod-404101313
 - GitHub: github.com/Anuj1282
+
+---
+⭐ Always learning and building data analytics projects.
