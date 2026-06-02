@@ -15,8 +15,8 @@ Hi, I'm Anuj Kumar Vinod.
 ### 1. SQL E-Commerce Analysis
 Business analysis using SQL and MySQL.
 
-### 2. Power BI Dashboard
-Coming Soon
+### 2. Nykaa Sales Dashboard (Power BI)
+Interactive dashboard for sales, revenue, and product performance analysis.
 
 ### 3. Python Sales Analysis
 Coming Soon
